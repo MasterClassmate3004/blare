@@ -24,12 +24,12 @@ Blare is a custom alarm clock with 6 keys, a buzzer and a TFT display. It has 2 
 - Top Case 3D Print
 - Bottom Case 3D Print
 
-##Images
+## Images
 
-#PCB
+# PCB
 ![3D render of PCB](Images/3.jpeg)
 ![3D render of PCB](Images/4.jpeg)
 
-#CAD
+# CAD
 ![Final assembly CAD](Images/6.jpeg)
 ![Final Design](Images/7.jpeg)
