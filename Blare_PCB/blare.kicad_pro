@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Untitled.kicad_pro",
+    "filename": "blare.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,7 +656,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Untitled.kicad_sch",
+        "filename": "blare.kicad_sch",
         "name": "Root",
         "uuid": "1a9d2457-7567-4c9e-965e-7ceb653231cf"
       }
